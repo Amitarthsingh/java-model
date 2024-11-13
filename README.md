@@ -1,4 +1,4 @@
-# BlackWidow-Chess
+# Chess
 Chess
 
 This project involves developing a fully functional chess game using Java. The goal is to create a desktop application that enables two players to play chess with a user-friendly graphical interface. The game will follow the standard rules of chess, providing features such as real-time move validation, checks, checkmates, and special moves (like castling and en passant). It will be designed with Object-Oriented Programming principles, ensuring modularity and ease of maintenance.
